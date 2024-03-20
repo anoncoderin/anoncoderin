@@ -2,11 +2,10 @@
 <h1 align="center">Hi there 👋 I am Madhu!✨</h1>
 <p align="center">
  <a href="https://www.madhulaxmi.com/">
-  ![Static Badge](https://img.shields.io/badge/my%20portfolio-blue)
-
+ my portfolio
  </a>
 </p>
-https://img.shields.io/badge/my%20portfolio-blue
+
 <h2 textColor="red">About me</h2>
  <p>I am a skilled UX/UI designer dedicated to crafting user-centric
               experiences. My focus is on creating engaging digital products
