@@ -6,6 +6,7 @@
 
  </a>
 </p>
+https://img.shields.io/badge/my%20portfolio-blue
 <h2 textColor="red">About me</h2>
  <p>I am a skilled UX/UI designer dedicated to crafting user-centric
               experiences. My focus is on creating engaging digital products
