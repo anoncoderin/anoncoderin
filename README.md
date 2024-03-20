@@ -32,7 +32,7 @@
 ![Static Badge](https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop&labelColor=black&color=%2331A8FF)
 ![Static Badge](https://img.shields.io/badge/Illustrator-black?logo=adobeillustrator&labelColor=black&color=%23FF9A00)
 ![Static Badge](https://img.shields.io/badge/InDesign-black?logo=adobeindesign&labelColor=black&color=%23FF3366)
-![Static Badge](https://img.shields.io/badge/After%20Effect-black?logo=adobeaftereffects&labelColor=black&color=%239999FF)
+![Static Badge](https://img.shields.io/badge/After%20Effects-white?logo=adobeaftereffects&labelColor=black&color=%239999FF)
 ![Static Badge](https://img.shields.io/badge/Figma-white?logo=figma&labelColor=white&color=%23F24E1E)
 ![Static Badge](https://img.shields.io/badge/Premiere%20Pro-white?logo=adobepremierepro&labelColor=white&color=%239999FF)
 
