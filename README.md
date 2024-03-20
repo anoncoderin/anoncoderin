@@ -1,8 +1,10 @@
 
 <h1 align="center">Hi there 👋 I am Madhu!✨</h1>
-<p align="center">https://img.shields.io/badge/my%20portfolio-blue
+<p align="center">
  <a href="https://www.madhulaxmi.com/">
- my portfolio
+  <img alt="portfolio" title="Portfolio Link" src="https://img.shields.io/badge/my%20portfolio-blue"
+/>
+
  </a>
 </p>
 
