@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi there 👋 I am Madhu!✨</h1>
+<h1 align="center">Hello 👋 I am Madhu!✨</h1>
 <p align="center">
  <a href="https://www.madhulaxmi.com/">
   <img alt="portfolio" title="Portfolio Link" src="https://img.shields.io/badge/my%20portfolio-blue"
