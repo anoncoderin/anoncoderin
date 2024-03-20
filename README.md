@@ -20,6 +20,20 @@
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5&labelColor=white)
+![Static Badge](https://img.shields.io/badge/CSS-blue?logo=css3&labelColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/Next.js-%23000000?logo=nextdotjs&labelColor=%231572B6)
+![Static Badge](https://img.shields.io/badge/React-black?logo=react&labelColor=black)
+![Static Badge](https://img.shields.io/badge/Tailwind-black?logo=tailwindcss&labelColor=black&color=%2306B6D4)
+
+
+### Design
+
+
+![Static Badge](https://img.shields.io/badge/Photoshop-black?logo=adobephotoshop&labelColor=black&color=%2331A8FF)
+![Static Badge](https://img.shields.io/badge/Illustrator-black?logo=adobeillustrator&labelColor=black&color=%23FF9A00)
+
+
+
 
 
 
