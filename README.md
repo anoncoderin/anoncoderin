@@ -18,6 +18,7 @@
  ### Development
  
 
+![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&labelColor=white)
 
 
             
