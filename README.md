@@ -13,6 +13,10 @@
               experiences. My focus is on creating engaging digital products
               across different platforms that are intuitive and dynamic.
             </p>
+            <h2>Tool & Technologies</h2>
+            ### Design
+            ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&labelColor=white)
+
             
 <!--
 **anoncoderin/anoncoderin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
