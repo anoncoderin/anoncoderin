@@ -15,7 +15,7 @@
             </p>
             <h2>Tool & Technologies</h2>
             ### Design
-        ![Javascript](https://img.shields.io/badge/JavaScript-black?logo=javascript&labelColor=white)
+       [![HTML](https://img.shields.io/badge/HTML-orange?style=flat-square&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 
 
 
