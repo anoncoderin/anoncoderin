@@ -19,6 +19,8 @@
  
 
 ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&labelColor=white)
+![Static Badge](https://img.shields.io/badge/HTML-black?logo=html5&labelColor=white)
+
 
 
             
