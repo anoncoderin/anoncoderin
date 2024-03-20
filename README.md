@@ -15,7 +15,8 @@
             </p>
             <h2>Tool & Technologies</h2>
             ### Design
-            ![Static Badge](https://img.shields.io/badge/JavaScript-black?logo=javascript&labelColor=white)
+           https://img.shields.io/badge/JavaScript-black?logo=javascript&labelColor=white
+
 
             
 <!--
