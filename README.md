@@ -1,10 +1,12 @@
 
 <h1 align="center">Hi there 👋 I am Madhu!✨</h1>
- <p align="center">
-              I am a skilled UX/UI designer dedicated to crafting user-centric
+
+<h2 text="bold">About me</h2>
+ <p>I am a skilled UX/UI designer dedicated to crafting user-centric
               experiences. My focus is on creating engaging digital products
               across different platforms that are intuitive and dynamic.
             </p>
+            
 <!--
 **anoncoderin/anoncoderin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
